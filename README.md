@@ -4,12 +4,15 @@
 
 This project uses Microsoft Excel to analyze customer churn in a telecommunications dataset. The case-study scenario is framed around Airtel. The goal is to describe churn, compare customer groups, identify patterns in usage and plan subscriptions, and suggest areas for further retention investigation.
 
+# DASHBOARD
+
+<img width="1821" height="732" alt="Screenshot 2026-10-14 230653" src="https://github.com/user-attachments/assets/19208d38-e480-470b-8f59-47a4ad322b23" />
+
+
 **Workbook:** `Telecommunications_Churn_Analysis.xlsx`  
 **Dataset size:** 4,250 customers  
 **Tools:** Excel formulas, PivotTables, descriptive statistics, correlation, segmentation, charts, and cluster analysis  
 **Dataset source named in the case study:** [Kaggle — Customer Churn Prediction 2020](https://www.kaggle.com/competitions/customer-churn-prediction-2020/data)
-
-> **Interpretation note:** These are descriptive findings from this dataset. Associations do not prove that a characteristic causes churn. Results below follow the calculations already recorded in the workbook. Where a requested analysis was not completed or the necessary fields are absent, that is stated explicitly rather than inventing a result.
 
 ---
 
@@ -306,18 +309,5 @@ The workbook identifies several patterns worth investigating:
 - ARPU, revenue loss, and CLV were not calculated due to missing financial inputs.
 - The clustering output is treated as the existing workbook result; the README does not claim an independently validated clustering model.
 
-## Suggested repository structure
 
-```text
-Telecommunications-Churn-Analysis/
-├── Telecommunications_Churn_Analysis.xlsx
-├── README.md
-└── images/
-    └── churn-dashboard.png
-```
-
-Add a dashboard screenshot to `images/churn-dashboard.png` and include this Markdown in the README where you want it displayed:
-
-```markdown
-![Telecommunications Churn Dashboard](images/churn-dashboard.png)
 ```
