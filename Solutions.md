@@ -388,5 +388,3 @@ The workbook identifies several patterns worth investigating:
 ## Final Note
 
 This analysis offers a strong starting point for churn diagnostics. The most actionable signals are concentrated around international-plan usage, customer-service contact frequency, and high-usage customer segments. A more complete business response would require richer operational and financial data.
-
-"}]} one-time use tool not in parallel  }  We need ensure valid JSON no stray characters. Let's do correct. Need no extra text after. Let's do proper call. Let's ensure valid json with no syntax issue. We'll do. We'll include file content but ensure no stray 
