@@ -4,7 +4,7 @@ This project is a business analytics and data-driven churn analysis case study f
 
 The analysis is built around a telecom dataset with 4,250 customers and uses Microsoft Excel as the primary tool for data exploration, segmentation, summary statistics, and dashboard creation.
 
-## Dashboard
+## Dashboard Preview
 
 <img width="1821" height="732" alt="Telecommunications churn dashboard" src="https://github.com/user-attachments/assets/19208d38-e480-470b-8f59-47a4ad322b23" />
 
