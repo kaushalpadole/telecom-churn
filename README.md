@@ -6,7 +6,8 @@ The analysis is built around a telecom dataset with 4,250 customers and uses Mic
 
 ## Dashboard Preview
 
-<img width="1821" height="732" alt="Telecommunications churn dashboard" src="https://github.com/user-attachments/assets/19208d38-e480-470b-8f59-47a4ad322b23" />
+<img width="1792" height="665" alt="image" src="https://github.com/user-attachments/assets/12b9791b-e80f-42db-9092-e06eab537ef0" />
+
 
 ## Project Overview
 
